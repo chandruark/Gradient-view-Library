@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gradiview.iml" filepath="$PROJECT_DIR$/Gradiview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customgradientview/customgradientview.iml" filepath="$PROJECT_DIR$/customgradientview/customgradientview.iml" />
+    </modules>
+  </component>
+</project>
