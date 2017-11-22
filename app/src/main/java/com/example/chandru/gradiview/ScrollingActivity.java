@@ -37,7 +37,7 @@ public class ScrollingActivity extends AppCompatActivity {
         gradient=(GradientArtistBasic) findViewById(R.id.gradientImage);
        gradient.setUrlImage("https://plus.google.com/photos/116790965176004270369/albums/profile/6209423768673413858?iso=false",R.drawable.weather,
               R.drawable.weather, ImageView.ScaleType.CENTER_CROP);
-        gradient.setDrawableImage(R.drawable.fun1,R.drawable.weather,R.drawable.weather,
+        gradient.setDrawableImage(R.drawable.weather,R.drawable.weather,R.drawable.weather,
                 ImageView.ScaleType.CENTER_CROP);
         Drawable myGradient = ContextCompat.getDrawable(this,R.drawable.alpha_gradient);
         gradient.setGradient(myGradient);
